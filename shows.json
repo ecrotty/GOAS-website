@@ -1,16 +1,16 @@
 [
   {
-    "date": "2025-06-27",
-    "venue": "John and Peter's",
-    "city": "New Hope",
+    "date": "2025-08-01",
+    "venue": "The Gem",
+    "city": "Spring City",
     "state": "PA",
-    "ticketUrl": "https://www.johnandpeters.com/2018/12/01/cyclone-static-tango-machina-blk-llc-and-alright-jr/",
+    "ticketUrl": "https://www.thegemspringcity.com/event-details/giants-of-all-sizes-w-cattail-bloom-and-lazer-shark",
     "soldOut": false,
     "coordinates": {
-      "lat": 39.9668,
-      "lng": -75.1347
+      "lat": 40.17903,
+      "lng": 75.54700,
     },
-    "address": "29 E Allen St, Philadelphia, PA 19123"
+    "address": "66 North Main St. Spring City, PA 19475"
   }
 
 ]
