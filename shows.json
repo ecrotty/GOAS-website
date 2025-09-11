@@ -1,16 +1,1 @@
-[
-  {
-    "date": "2025-08-01",
-    "venue": "The Gem",
-    "city": "Spring City",
-    "state": "PA",
-    "ticketUrl": "https://www.thegemspringcity.com/event-details/giants-of-all-sizes-w-cattail-bloom-and-lazer-shark",
-    "soldOut": false,
-    "coordinates": {
-      "lat": 40.17903,
-      "lng": 75.54700,
-    },
-    "address": "66 North Main St. Spring City, PA 19475"
-  }
-
-]
+[ { "date": "2025-10-11", "venue": "The Water Tower", "city": "Oaks", "state": "Pennsylvania", "ticketUrl": "https://www.ticketleap.events/tickets/arnoldsatthefactory/a-night-of-ghost-toads-and-giants-with-ghost-of-the-mill-the-french-toads-and-giants-of-all-sizes", "soldOut": false, "coordinates": { "lat": 40.123030278167235, "lng": -75.4561501336048 }, "address": "2200 West Dr, Oaks, PA 19456" } ]
